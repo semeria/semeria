@@ -30,12 +30,6 @@ He participado en proyectos para sectores como mantenimiento industrial, bienes 
 ### Herramientas
 [![Tools](https://skillicons.dev/icons?i=phpstorm,webstorm,vscode,postman)](https://skillicons.dev)
 
-## Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=semeria&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semeria&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Enfoque profesional
 
 Me gusta trabajar en proyectos donde se conectan desarrollo, operación e implementación real.  
